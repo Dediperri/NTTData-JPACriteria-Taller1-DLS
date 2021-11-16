@@ -6,7 +6,7 @@ import com.nttdata.hibernate.persistence.NTTDataContract;
 
 /**
  * 
- * Interface del servicio de clientes
+ * Interface del servicio de contratos
  * 
  * @author Diego Lopez Strickland
  *
